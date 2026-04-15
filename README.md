@@ -1,7 +1,7 @@
 # Hi 👋 My name is Sineth
 
 - 🌏 I'm in Brisbane, Australia
-- 🤖 Studying Mechatronics Engineering (Honours) / Masters of Robotics and AI
+- 🤖 Studying Mechatronics Engineering (Honours) / Masters of Robotics and AI at QUT
 - 📫 sinethranasinghe15@gmail.com | [LinkedIn](https://www.linkedin.com/in/sineth-ranasinghe-4229a32a1)
 
 ## 🪸 Featured Project — Coral Reef 3D Reconstruction
@@ -13,7 +13,11 @@ Evaluating deep learning methods (NeRF and 3D Gaussian Splatting) for 3D reconst
 ![C++](https://skillicons.dev/icons?i=cpp)
 ![PyTorch](https://skillicons.dev/icons?i=pytorch)
 ![TensorFlow](https://skillicons.dev/icons?i=tensorflow)
+![Arduino](https://skillicons.dev/icons?i=arduino)
 ![Linux](https://skillicons.dev/icons?i=linux)
+![MySQL](https://skillicons.dev/icons?i=mysql)
+![VSCode](https://skillicons.dev/icons?i=vscode)
+![MATLAB](https://skillicons.dev/icons?i=matlab)
 ![Git](https://skillicons.dev/icons?i=git)
 
 ## Socials
