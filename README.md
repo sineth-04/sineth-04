@@ -47,7 +47,7 @@ Building a reinforcement learning agent (PPO via Stable-Baselines3) that learns 
 ![VSCode](https://skillicons.dev/icons?i=vscode)
 ![Arduino](https://skillicons.dev/icons?i=arduino)
 ![MySQL](https://skillicons.dev/icons?i=mysql)
-
+![SQLite](https://skillicons.dev/icons?i=sqlite)
 ---
 
 ## 🌐 Socials
