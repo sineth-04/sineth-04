@@ -35,6 +35,7 @@ Building a reinforcement learning agent (PPO via Stable-Baselines3) that learns 
 **Languages**
 ![Python](https://skillicons.dev/icons?i=python)
 ![C++](https://skillicons.dev/icons?i=cpp)
+![C](https://skillicons.dev/icons?i=c)
 ![MATLAB](https://skillicons.dev/icons?i=matlab)
 
 **ML / AI**
